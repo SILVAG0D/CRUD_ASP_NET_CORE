@@ -357,3 +357,5 @@ C:\Users\gustavo.liesch\Desktop\USANDOVIEWS\obj\Debug\net5.0\Razor\Views\Home\Ex
 C:\Users\gustavo.liesch\Desktop\USANDOVIEWS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\gustavo.liesch\Desktop\USANDOVIEWS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\gustavo.liesch\Desktop\USANDOVIEWS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\gustavo.liesch\Desktop\USANDOVIEWS\obj\Debug\net5.0\Razor\Views\Shared\_MensagemErro.cshtml.g.cs
+C:\Users\gustavo.liesch\Desktop\USANDOVIEWS\obj\Debug\net5.0\Razor\Views\Shared\_MensagemInfo.cshtml.g.cs

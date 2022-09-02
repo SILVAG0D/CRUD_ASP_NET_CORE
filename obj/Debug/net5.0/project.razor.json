@@ -15644,6 +15644,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\gustavo.liesch\\Desktop\\USANDOVIEWS\\Views\\Shared\\_MensagemInfo.cshtml",
+      "TargetPath": "Views\\Shared\\_MensagemInfo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\gustavo.liesch\\Desktop\\USANDOVIEWS\\Views\\Shared\\_MensagemErro.cshtml",
+      "TargetPath": "Views\\Shared\\_MensagemErro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\gustavo.liesch\\Desktop\\USANDOVIEWS\\Views\\Home\\Usuarios.cshtml",
       "TargetPath": "Views\\Home\\Usuarios.cshtml",
       "FileKind": "mvc"
