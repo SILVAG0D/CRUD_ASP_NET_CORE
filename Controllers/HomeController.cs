@@ -7,6 +7,7 @@ namespace USANDOVIEWS.Controllers{
     public class HomeController : Controller{
 
         public IActionResult Index(){
+            ViewBag.QtdeUsuarios = Usuario.Listagem.Count();
             return View();
         }
         
